@@ -1,0 +1,18 @@
+{
+  "company": {
+    "employee": {
+      "person": [
+        {
+          "name": "Jack",
+          "secondName": "ADA"
+        },
+        {
+          "name": "Max",
+          "secondName": "ADA"
+        }
+      ]
+    },
+    "address": "address",
+    "phone": "number"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title" : "File2",
+  "person": [
+    {
+      "name": "Ion",
+      "age": 14
+    },
+    {
+      "name": "Ivan",
+      "age": 14
+    },
+    {
+      "name": "Nelu",
+      "age": 14
+    },
+    {
+      "name": "Alex",
+      "age": 14
+    },
+    {
+      "name": "Sandu",
+      "age": 14
+    }
+  ]
+}

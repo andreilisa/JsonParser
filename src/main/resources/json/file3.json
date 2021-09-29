@@ -1,0 +1,2256 @@
+{
+  "report": {
+    "language": "EN",
+    "companyId": "IE-0-IE033123",
+    "directors": {
+      "currentDirectors": [
+        {
+          "id": "IE-702039162",
+          "name": "NURIA MORAL TORRA",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "address": {
+            "city": "BARCELONA 08100",
+            "type": "Service Address",
+            "street": "AVDA. TEIXIDORES NUM 5 B, MOLLET DEL VALLES",
+            "province": "SPAIN",
+            "simpleValue": "AVDA. TEIXIDORES NUM 5 B, MOLLET DEL VALLES, BARCELONA 08100"
+          },
+          "surname": "TORRA",
+          "firstName": "NURIA MORAL",
+          "positions": [
+            {
+              "positionName": "Director",
+              "dateAppointed": "2017-05-31T00:00:00Z"
+            }
+          ],
+          "dateOfBirth": "1978-08-01T00:00:00Z",
+          "directorType": "Person",
+          "additionalData": {
+            "disqualified": false,
+            "presentAppointments": 3,
+            "disqualifiedException": false
+          }
+        },
+        {
+          "id": "IE-701981493",
+          "name": "IGNACIO PEREZ",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "address": {
+            "city": "E39005",
+            "type": "Service Address",
+            "street": "CALLE JOAQUIN COSTA 15-D, SANTANDER",
+            "simpleValue": "CALLE JOAQUIN COSTA 15-D, SANTANDER, E39005"
+          },
+          "surname": "PEREZ",
+          "firstName": "IGNACIO",
+          "positions": [
+            {
+              "positionName": "Director",
+              "dateAppointed": "2016-11-23T00:00:00Z"
+            }
+          ],
+          "dateOfBirth": "1975-04-01T00:00:00Z",
+          "directorType": "Person",
+          "additionalData": {
+            "disqualified": false,
+            "presentAppointments": 3,
+            "disqualifiedException": false
+          }
+        },
+        {
+          "id": "IE-700686255",
+          "name": "GERARD DEE",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "address": {
+            "city": "LIMERICK.",
+            "type": "Service Address",
+            "street": "4 CLOVER HILL, DOORADOYLE",
+            "simpleValue": "4 CLOVER HILL, DOORADOYLE, LIMERICK."
+          },
+          "surname": "DEE",
+          "firstName": "GERARD",
+          "positions": [
+            {
+              "positionName": "Company Secretary",
+              "dateAppointed": "2011-12-23T00:00:00Z"
+            }
+          ],
+          "dateOfBirth": "1965-10-01T00:00:00Z",
+          "directorType": "Person",
+          "additionalData": {
+            "disqualified": false,
+            "presentAppointments": 11,
+            "disqualifiedException": false
+          }
+        },
+        {
+          "id": "IE-701037978",
+          "name": "STEPHEN MULHALL",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "address": {
+            "city": "LIMERICK",
+            "type": "Service Address",
+            "street": "20 MILLTOWN MANOR, MONALEEN",
+            "simpleValue": "20 MILLTOWN MANOR, MONALEEN, LIMERICK"
+          },
+          "surname": "MULHALL",
+          "firstName": "STEPHEN",
+          "positions": [
+            {
+              "positionName": "Director",
+              "dateAppointed": "2004-02-26T00:00:00Z"
+            }
+          ],
+          "dateOfBirth": "1963-11-01T00:00:00Z",
+          "directorType": "Person",
+          "additionalData": {
+            "disqualified": false,
+            "presentAppointments": 23,
+            "disqualifiedException": false
+          }
+        },
+        {
+          "id": "IE-700686255",
+          "name": "GERARD DEE",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "address": {
+            "city": "LIMERICK.",
+            "type": "Service Address",
+            "street": "4 CLOVER HILL, DOORADOYLE",
+            "simpleValue": "4 CLOVER HILL, DOORADOYLE, LIMERICK."
+          },
+          "surname": "DEE",
+          "firstName": "GERARD",
+          "positions": [
+            {
+              "positionName": "Director",
+              "dateAppointed": "2001-10-01T00:00:00Z"
+            }
+          ],
+          "dateOfBirth": "1965-10-01T00:00:00Z",
+          "directorType": "Person",
+          "additionalData": {
+            "disqualified": false,
+            "presentAppointments": 5,
+            "disqualifiedException": false
+          }
+        },
+        {
+          "id": "IE-700139572",
+          "name": "MARK MCMAHON",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "address": {
+            "city": "CASTLETROY",
+            "type": "Service Address",
+            "street": "NO. 5 FOXHOLLOW, GOLF LINKS ROAD",
+            "province": "LIMERICK",
+            "simpleValue": "NO. 5 FOXHOLLOW, GOLF LINKS ROAD, CASTLETROY"
+          },
+          "surname": "MCMAHON",
+          "firstName": "MARK",
+          "positions": [
+            {
+              "positionName": "Director",
+              "dateAppointed": "1996-04-27T00:00:00Z"
+            }
+          ],
+          "dateOfBirth": "1961-09-01T00:00:00Z",
+          "directorType": "Person",
+          "additionalData": {
+            "disqualified": false,
+            "presentAppointments": 20,
+            "disqualifiedException": false
+          }
+        }
+      ],
+      "previousDirectors": [
+        {
+          "id": "IE-700015091",
+          "name": "MICHAEL  FLOOD",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 5,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700015091",
+          "name": "MICHAEL  FLOOD",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 5,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700025577",
+          "name": "HUGH PATRICK  MCMAHON",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 4,
+            "dissolvedAppointments": 7
+          }
+        },
+        {
+          "id": "IE-700025575",
+          "name": "MARCUS  MCMAHON",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 3,
+            "dissolvedAppointments": 6
+          }
+        },
+        {
+          "id": "IE-700141670",
+          "name": "DAVID GERARD  MCMAHON",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 3,
+            "dissolvedAppointments": 13
+          }
+        },
+        {
+          "id": "IE-700141673",
+          "name": "MICHAEL VICTOR  MOYLES",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 2,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700141679",
+          "name": "BRIAN  HINKINS",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 1,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700141644",
+          "name": "FREDERICK  FENNESSY",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 2,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700141648",
+          "name": "JOHN  HALL",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 2,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-701430725",
+          "name": "XAVIER  PUIG",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 1,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-701405101",
+          "name": "RAIMON  TRIAS",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 1,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-701981494",
+          "name": "BARDO  BEVELANDER",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 3,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700828006",
+          "name": "DAVID JOHN  ROACHE",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 3,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700400617",
+          "name": "RICHARD  HALL",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 1,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700400621",
+          "name": "STEPHEN DAVID  LONGBOTTOM",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 2,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-701226423",
+          "name": "LUIS  SANZ",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 3,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-701226745",
+          "name": "FRANCESC  RUBIRALTA  RUBIO",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 1,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700608438",
+          "name": "EILEEN  MURPHY",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 2,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-700608446",
+          "name": "JOHN  SWORD",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 3,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-701176296",
+          "name": "JONATHAN CHARLES  COOK",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 4,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-701181232",
+          "name": "DAVID  HUSSEY",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 3,
+            "dissolvedAppointments": 0
+          }
+        },
+        {
+          "id": "IE-701184681",
+          "name": "DAVID BRIAN  LENG",
+          "gender": "Unknown",
+          "idType": "PersonNumber",
+          "positions": [],
+          "directorType": "Other",
+          "additionalData": {
+            "presentAppointments": 0,
+            "previousAppointments": 3,
+            "dissolvedAppointments": 0
+          }
+        }
+      ]
+    },
+    "creditScore": {
+      "currentCreditRating": {
+        "commonValue": "E",
+        "creditLimit": {
+          "value": "No limit",
+          "currency": "EUR"
+        },
+        "providerValue": {
+          "value": "No credit rating",
+          "maxValue": "100",
+          "minValue": "1"
+        },
+        "providerDescription": "Not Rated"
+      },
+      "currentContractLimit": {
+        "value": 0,
+        "currency": "EUR"
+      },
+      "previousCreditRating": {
+        "commonValue": "D",
+        "creditLimit": {
+          "value": "No limit",
+          "currency": "EUR"
+        },
+        "providerValue": {
+          "value": "0",
+          "maxValue": "100",
+          "minValue": "1"
+        },
+        "commonDescription": "High Risk",
+        "providerDescription": "Very High Risk"
+      },
+      "latestRatingChangeDate": "2009-11-09T00:00:00Z"
+    },
+    "paymentData": {
+      "industryDBT": 11,
+      "paymentTrend": "TrendNotAvailable",
+      "paymentsOnFile": 1,
+      "paymentsOnTime": 1,
+      "paymentsPaidLate": 0,
+      "paymentsSentLegal": 0,
+      "paymentsStillOwing": 0,
+      "totalInvoiceValues": 166.65,
+      "averageInvoiceValue": 166.65,
+      "paymentsWithinTerms": 0,
+      "payments0to30Dayslate": 0,
+      "paymentsPaid0to30Days": 1,
+      "payments31to60DaysLate": 0,
+      "payments61to90DaysLate": 0,
+      "paymentsPaid31to60Days": 0,
+      "paymentsPaid61to90Days": 0,
+      "paymentsPaid90Daysplus": 0,
+      "paymentsStillOwingLate": 0,
+      "totalBalanceStillOwing": 0,
+      "paymentsPaid90DaysplusLate": 0,
+      "totalBalanceStillOwingLate": 0,
+      "numberOfInvoicesPaid1To30Days": 1,
+      "highestInvoiceValueOutstanding": 0,
+      "numberOfInvoicesPaid31To60Days": 0,
+      "numberOfInvoicesPaid61To90Days": 0,
+      "numberOfInvoicesPaid91PlusDays": 0,
+      "numberOfInvoicesPaidWithinTerms": 0,
+      "highestInvoiceValueOutstandingLate": 0,
+      "numberOfInvoicesOutstanding1To30Days": 0,
+      "numberOfInvoicesOutstanding31To60Days": 0,
+      "numberOfInvoicesOutstanding61To90Days": 0,
+      "numberOfInvoicesOutstanding91PlusDays": 0,
+      "numberOfInvoicesOutstandingWithinTerms": 0
+    },
+    "companySummary": {
+      "country": "IE",
+      "businessName": "B. R. C. MCMAHON REINFORCEMENTS LIMITED",
+      "creditRating": {
+        "commonValue": "E",
+        "creditLimit": {
+          "value": "No limit",
+          "currency": "EUR"
+        },
+        "providerValue": {
+          "value": "No credit rating",
+          "maxValue": "100",
+          "minValue": "1"
+        },
+        "commonDescription": "Not Rated",
+        "providerDescription": "Section 357 (Southern Ireland)"
+      },
+      "mainActivity": {
+        "code": "41201",
+        "description": "Construction of commercial buildings",
+        "classification": "SIC07"
+      },
+      "companyNumber": "IE00027260",
+      "companyStatus": {
+        "status": "Active",
+        "description": "Section 357 (Southern Ireland)",
+        "providerStatus": "Not Scored"
+      },
+      "companyRegistrationNumber": "IE033123",
+      "latestShareholdersEquityFigure": {
+        "value": 0,
+        "currency": "EUR"
+      }
+    },
+    "groupStructure": {
+      "ultimateParent": {
+        "id": "IE-0-IE355290",
+        "name": "DEREVOYA HOLDINGS LIMITED",
+        "type": "NotSet",
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00347594",
+        "registrationNumber": "IE355290"
+      },
+      "immediateParent": {
+        "id": "IE-0-IE003490",
+        "name": "JAMES MC MAHON, LIMITED",
+        "type": "NotSet",
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00000512",
+        "registrationNumber": "IE003490"
+      },
+      "affiliatedCompanies": [
+        {
+          "id": "IE-0-IE001586",
+          "name": "ACE HOMECENTRE LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE00000114",
+          "registrationNumber": "IE001586"
+        },
+        {
+          "id": "IE-0-IE088901",
+          "name": "TORURO ENTERPRISES LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE00083033",
+          "registrationNumber": "IE088901"
+        },
+        {
+          "id": "DE-0-DE02017110",
+          "name": "TORURO GMBH & CO. KG",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "DE",
+          "safeNumber": "DE02017110",
+          "registrationNumber": "HRA 40201 B"
+        },
+        {
+          "id": "DE-0-DE02061015",
+          "name": "TORURO MANAGEMENT GMBH",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "DE",
+          "safeNumber": "DE02061015",
+          "registrationNumber": "HRB 108811 B"
+        },
+        {
+          "id": "IE-0-IE100742",
+          "name": "SUPERWARM HOMES (LIMERICK) LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE00094874",
+          "registrationNumber": "IE100742"
+        },
+        {
+          "id": "IE-0-IE423315",
+          "name": "JMCM PROPERTIES LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE00415015",
+          "registrationNumber": "IE423315"
+        },
+        {
+          "id": "IE-0-IE563983",
+          "name": "COOPER DEVELOPMENTS DESIGNATED ACTIVITY COMPANY",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE01081789",
+          "registrationNumber": "IE563983"
+        },
+        {
+          "id": "IE-0-IE068292",
+          "name": "SPAIGHT TIMBER PRESERVATIVES LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE00062424",
+          "registrationNumber": "IE068292"
+        },
+        {
+          "id": "IE-0-IE175934",
+          "name": "WERDNA LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE00170066",
+          "registrationNumber": "IE175934"
+        },
+        {
+          "id": "IE-0-IE582767",
+          "name": "JAMES MCMAHON (BP 1830) DESIGNATED ACTIVITY COMPANY",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE01125577",
+          "registrationNumber": "IE582767"
+        },
+        {
+          "id": "GB-0-NI001065",
+          "name": "ROBERT KEYS & COMPANY LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "GB",
+          "safeNumber": "UK07001832",
+          "registrationNumber": "NI001065"
+        },
+        {
+          "id": "GB-0-NI039889",
+          "name": "ACE HOME CENTRE LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "GB",
+          "safeNumber": "UK07034767",
+          "registrationNumber": "NI039889"
+        },
+        {
+          "id": "GB-0-05967608",
+          "name": "WINRUNNER LTD",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "GB",
+          "safeNumber": "UK05611290",
+          "registrationNumber": "05967608"
+        }
+      ],
+      "subsidiaryCompanies": [
+        {
+          "id": "IE-0-IE072275",
+          "name": "BAT METALWORK LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE00066407",
+          "registrationNumber": "IE072275"
+        },
+        {
+          "id": "IE-0-IE421405",
+          "name": "WIRE MESH LIMITED",
+          "type": "NotSet",
+          "status": "Active",
+          "country": "IE",
+          "safeNumber": "IE00413106",
+          "registrationNumber": "IE421405"
+        }
+      ]
+    },
+    "otherInformation": {
+      "bankers": [
+        {
+          "name": "ALLIED IRISH BANK"
+        }
+      ],
+      "advisors": [
+        {
+          "auditorName": "PRICEWATERHOUSECOOPERS"
+        }
+      ]
+    },
+    "contactInformation": {
+      "websites": [
+        "www.brc.ie"
+      ],
+      "mainAddress": {
+        "type": "Registered Address",
+        "telephone": "06251679",
+        "postalCode": "999939",
+        "simpleValue": "ROSANNA ROAD, TIPPERARY, CO TIPPERARYTIPPERARY, 999939",
+        "directMarketingOptOut": false
+      }
+    },
+    "financialStatements": [
+      {
+        "type": "GlobalFinancialsGGS",
+        "currency": "EUR",
+        "yearEndDate": "2018-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "totalAssets": 0,
+          "otherReserves": 0,
+          "tradePayables": 0,
+          "bankLiabilities": 0,
+          "revenueReserves": 0,
+          "totalFixedAssets": 0,
+          "totalInventories": 0,
+          "totalLiabilities": 0,
+          "totalReceivables": 0,
+          "tradeReceivables": 0,
+          "otherCurrentAssets": 0,
+          "totalCurrentAssets": 0,
+          "otherLoansOrFinance": 0,
+          "totalTangibleAssets": 0,
+          "calledUpShareCapital": 0,
+          "totalIntangibleAssets": 0,
+          "totalOtherFixedAssets": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "miscellaneousLiabilities": 0,
+          "miscellaneousReceivables": 0,
+          "totalLongTermLiabilities": 0,
+          "bankLiabilitiesDueAfter1Year": 0,
+          "otherLoansOrFinanceDueAfter1Year": 0,
+          "miscellaneousLiabilitiesDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "profitAndLoss": {
+          "otherAppropriations": 0
+        },
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "contingentLiabilities": "NO"
+        },
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "GlobalFinancialsGGS",
+        "currency": "EUR",
+        "yearEndDate": "2017-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "totalAssets": 0,
+          "otherReserves": 0,
+          "tradePayables": 0,
+          "bankLiabilities": 0,
+          "revenueReserves": 0,
+          "totalFixedAssets": 0,
+          "totalInventories": 0,
+          "totalLiabilities": 0,
+          "totalReceivables": 0,
+          "tradeReceivables": 0,
+          "otherCurrentAssets": 0,
+          "totalCurrentAssets": 0,
+          "otherLoansOrFinance": 0,
+          "totalTangibleAssets": 0,
+          "calledUpShareCapital": 0,
+          "totalIntangibleAssets": 0,
+          "totalOtherFixedAssets": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "miscellaneousLiabilities": 0,
+          "miscellaneousReceivables": 0,
+          "totalLongTermLiabilities": 0,
+          "bankLiabilitiesDueAfter1Year": 0,
+          "otherLoansOrFinanceDueAfter1Year": 0,
+          "miscellaneousLiabilitiesDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "profitAndLoss": {
+          "otherAppropriations": 0
+        },
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "contingentLiabilities": "NO"
+        },
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "GlobalFinancialsGGS",
+        "currency": "EUR",
+        "yearEndDate": "2016-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "totalAssets": 0,
+          "otherReserves": 0,
+          "tradePayables": 0,
+          "bankLiabilities": 0,
+          "revenueReserves": 0,
+          "totalFixedAssets": 0,
+          "totalInventories": 0,
+          "totalLiabilities": 0,
+          "totalReceivables": 0,
+          "tradeReceivables": 0,
+          "otherCurrentAssets": 0,
+          "totalCurrentAssets": 0,
+          "otherLoansOrFinance": 0,
+          "totalTangibleAssets": 0,
+          "calledUpShareCapital": 0,
+          "totalIntangibleAssets": 0,
+          "totalOtherFixedAssets": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "miscellaneousLiabilities": 0,
+          "miscellaneousReceivables": 0,
+          "totalLongTermLiabilities": 0,
+          "bankLiabilitiesDueAfter1Year": 0,
+          "otherLoansOrFinanceDueAfter1Year": 0,
+          "miscellaneousLiabilitiesDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "profitAndLoss": {
+          "otherAppropriations": 0
+        },
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "contingentLiabilities": "NO"
+        },
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "GlobalFinancialsGGS",
+        "currency": "EUR",
+        "yearEndDate": "2015-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "totalAssets": 0,
+          "otherReserves": 0,
+          "tradePayables": 0,
+          "bankLiabilities": 0,
+          "revenueReserves": 0,
+          "totalFixedAssets": 0,
+          "totalInventories": 0,
+          "totalLiabilities": 0,
+          "totalReceivables": 0,
+          "tradeReceivables": 0,
+          "otherCurrentAssets": 0,
+          "totalCurrentAssets": 0,
+          "otherLoansOrFinance": 0,
+          "totalTangibleAssets": 0,
+          "calledUpShareCapital": 0,
+          "totalIntangibleAssets": 0,
+          "totalOtherFixedAssets": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "miscellaneousLiabilities": 0,
+          "miscellaneousReceivables": 0,
+          "totalLongTermLiabilities": 0,
+          "bankLiabilitiesDueAfter1Year": 0,
+          "otherLoansOrFinanceDueAfter1Year": 0,
+          "miscellaneousLiabilitiesDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "profitAndLoss": {
+          "otherAppropriations": 0
+        },
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "contingentLiabilities": "NO"
+        },
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "GlobalFinancialsGGS",
+        "currency": "EUR",
+        "yearEndDate": "2014-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "totalAssets": 0,
+          "otherReserves": 0,
+          "tradePayables": 0,
+          "bankLiabilities": 0,
+          "revenueReserves": 0,
+          "totalFixedAssets": 0,
+          "totalInventories": 0,
+          "totalLiabilities": 0,
+          "totalReceivables": 0,
+          "tradeReceivables": 0,
+          "otherCurrentAssets": 0,
+          "totalCurrentAssets": 0,
+          "otherLoansOrFinance": 0,
+          "totalTangibleAssets": 0,
+          "calledUpShareCapital": 0,
+          "totalIntangibleAssets": 0,
+          "totalOtherFixedAssets": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "miscellaneousLiabilities": 0,
+          "miscellaneousReceivables": 0,
+          "totalLongTermLiabilities": 0,
+          "bankLiabilitiesDueAfter1Year": 0,
+          "otherLoansOrFinanceDueAfter1Year": 0,
+          "miscellaneousLiabilitiesDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "profitAndLoss": {
+          "otherAppropriations": 0
+        },
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "contingentLiabilities": "NO"
+        },
+        "consolidatedAccounts": true
+      }
+    ],
+    "negativeInformation": {
+      "ccjSummary": {
+        "currency": "EUR",
+        "numberOfExact": 0,
+        "numberOfWrits": 0,
+        "numberOfPossible": 0,
+        "numberOfSatisfied": 0
+      }
+    },
+    "additionalInformation": {
+      "scoreTiers": [
+        {
+          "activityCode": "41201",
+          "numberOfActivityCode": 6541
+        }
+      ],
+      "miscellaneous": {
+        "fps": false,
+        "negativeRating": -33
+      },
+      "ratingHistory": [
+        {
+          "date": "2009-11-09T00:00:00Z",
+          "companyValue": -33,
+          "ratingDescription": "Section 17 (Southern Ireland)"
+        },
+        {
+          "date": "2009-11-03T00:00:00Z",
+          "companyValue": -18,
+          "ratingDescription": "Financial Statements too old"
+        },
+        {
+          "date": "2007-11-20T00:00:00Z",
+          "companyValue": -33,
+          "ratingDescription": "Section 17 (Southern Ireland)"
+        },
+        {
+          "date": "2007-08-31T00:00:00Z",
+          "companyValue": 100,
+          "ratingDescription": "Very Low Risk"
+        }
+      ],
+      "companyHistory": [
+        {
+          "date": "2019-12-03T22:03:10Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2019-12-03T22:03:10Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2019-12-02T22:09:48Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2018-09-19T22:15:46Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2018-09-19T22:06:41Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2017-08-31T22:10:58Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2017-06-17T22:01:19Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2017-06-09T22:14:32Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2017-05-31T00:00:00Z",
+          "description": "BARDO BEVELANDER has left the board"
+        },
+        {
+          "date": "2017-05-31T00:00:00Z",
+          "description": "New Board Member (NURIA MORAL TORRA) appointed"
+        },
+        {
+          "date": "2016-11-23T00:00:00Z",
+          "description": "XAVIER PUIG has left the board"
+        },
+        {
+          "date": "2016-11-23T00:00:00Z",
+          "description": "LUIS SANZ has left the board"
+        },
+        {
+          "date": "2016-11-23T00:00:00Z",
+          "description": "New Board Member (BARDO BEVELANDER) appointed"
+        },
+        {
+          "date": "2016-11-23T00:00:00Z",
+          "description": "New Board Member (IGNACIO PEREZ) appointed"
+        },
+        {
+          "date": "2016-11-21T22:16:55Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2016-11-15T10:55:15Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2015-12-12T22:13:20Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2015-11-30T22:42:34Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2015-07-15T00:00:00Z",
+          "description": "FRANCESC  RUBIRALTA RUBIO has left the board"
+        },
+        {
+          "date": "2014-11-25T22:21:54Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2014-11-20T22:10:06Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2013-11-23T00:35:37Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2013-11-20T00:42:54Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2012-10-17T00:47:31Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2012-10-13T17:39:08Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2012-02-01T00:00:00Z",
+          "description": "RAIMON TRIAS has left the board"
+        },
+        {
+          "date": "2012-02-01T00:00:00Z",
+          "description": "New Board Member (XAVIER PUIG) appointed"
+        },
+        {
+          "date": "2011-12-23T00:00:00Z",
+          "description": "EILEEN MURPHY has resigned as company secretary"
+        },
+        {
+          "date": "2011-12-23T00:00:00Z",
+          "description": "New Company Secretary (GERARD DEE) appointed"
+        },
+        {
+          "date": "2011-11-11T00:39:39Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2011-11-11T00:39:39Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2011-11-09T00:44:45Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2011-07-01T00:00:00Z",
+          "description": "New Board Member (RAIMON TRIAS) appointed"
+        },
+        {
+          "date": "2010-10-21T00:34:09Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2010-10-20T00:41:09Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2009-11-09T00:52:26Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2009-11-09T00:42:15Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2009-11-09T00:42:15Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2009-04-23T00:31:51Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2009-01-08T00:00:00Z",
+          "description": "New Board Member (FRANCESC  RUBIRALTA RUBIO) appointed"
+        },
+        {
+          "date": "2009-01-08T00:00:00Z",
+          "description": "New Board Member (LUIS SANZ) appointed"
+        },
+        {
+          "date": "2008-12-31T00:00:00Z",
+          "description": "DAVID BRIAN LENG has left the board"
+        },
+        {
+          "date": "2008-12-31T00:00:00Z",
+          "description": "DAVID HUSSEY has left the board"
+        },
+        {
+          "date": "2008-10-21T00:39:43Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2008-10-21T00:34:29Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2008-06-25T00:00:00Z",
+          "description": "JONATHAN COOK has left the board"
+        },
+        {
+          "date": "2008-06-25T00:00:00Z",
+          "description": "New Board Member (DAVID BRIAN LENG) appointed"
+        },
+        {
+          "date": "2008-06-24T00:00:00Z",
+          "description": "JOHN SWORD has left the board"
+        },
+        {
+          "date": "2008-06-24T00:00:00Z",
+          "description": "New Board Member (DAVID HUSSEY) appointed"
+        },
+        {
+          "date": "2008-05-01T00:00:00Z",
+          "description": "New Board Member (JONATHAN COOK) appointed"
+        },
+        {
+          "date": "2007-12-31T00:00:00Z",
+          "description": "DAVID JOHN ROACHE has left the board"
+        },
+        {
+          "date": "2007-11-30T12:24:20Z",
+          "description": "Annual Returns"
+        },
+        {
+          "date": "2007-11-20T11:49:35Z",
+          "description": "New Accounts Filed"
+        },
+        {
+          "date": "2004-02-26T00:00:00Z",
+          "description": "DAVID GERARD MCMAHON has left the board"
+        },
+        {
+          "date": "2004-02-26T00:00:00Z",
+          "description": "New Board Member (STEPHEN MULHALL) appointed"
+        },
+        {
+          "date": "2003-08-28T00:00:00Z",
+          "description": "STEPHEN DAVID LONGBOTTOM has left the board"
+        },
+        {
+          "date": "2003-08-28T00:00:00Z",
+          "description": "New Board Member (DAVID JOHN ROACHE) appointed"
+        },
+        {
+          "date": "2001-10-01T00:00:00Z",
+          "description": "New Board Member (GERARD DEE) appointed"
+        },
+        {
+          "date": "2001-02-21T00:00:00Z",
+          "description": "MICHAEL FLOOD has left the board"
+        },
+        {
+          "date": "1999-07-12T00:00:00Z",
+          "description": "RICHARD HALL has left the board"
+        },
+        {
+          "date": "1999-07-12T00:00:00Z",
+          "description": "New Board Member (JOHN SWORD) appointed"
+        },
+        {
+          "date": "1999-01-28T00:00:00Z",
+          "description": "MICHAEL FLOOD has resigned as company secretary"
+        },
+        {
+          "date": "1999-01-28T00:00:00Z",
+          "description": "New Company Secretary (EILEEN MURPHY) appointed"
+        },
+        {
+          "date": "1997-07-14T00:00:00Z",
+          "description": "New Board Member (STEPHEN DAVID LONGBOTTOM) appointed"
+        },
+        {
+          "date": "1996-04-27T00:00:00Z",
+          "description": "New Board Member (MARK MCMAHON) appointed"
+        },
+        {
+          "date": "1994-04-27T00:00:00Z",
+          "description": "FREDERICK FENNESSY has resigned as company secretary"
+        },
+        {
+          "date": "1994-04-27T00:00:00Z",
+          "description": "New Company Secretary (MICHAEL FLOOD) appointed"
+        },
+        {
+          "date": "1902-01-01T00:00:00Z",
+          "description": "HUGH PATRICK MCMAHON has left the board"
+        },
+        {
+          "date": "1902-01-01T00:00:00Z",
+          "description": "MARCUS MCMAHON has left the board"
+        },
+        {
+          "date": "1902-01-01T00:00:00Z",
+          "description": "BRIAN HINKINS has left the board"
+        },
+        {
+          "date": "1902-01-01T00:00:00Z",
+          "description": "MICHAEL VICTOR MOYLES has left the board"
+        },
+        {
+          "date": "1902-01-01T00:00:00Z",
+          "description": "JOHN HALL has left the board"
+        },
+        {
+          "date": "1902-01-01T00:00:00Z",
+          "description": "New Board Member (RICHARD HALL) appointed"
+        },
+        {
+          "date": "1901-01-01T00:00:00Z",
+          "description": "New Board Member (MICHAEL FLOOD) appointed"
+        },
+        {
+          "date": "1901-01-01T00:00:00Z",
+          "description": "New Board Member (HUGH PATRICK MCMAHON) appointed"
+        },
+        {
+          "date": "1901-01-01T00:00:00Z",
+          "description": "New Board Member (MARCUS MCMAHON) appointed"
+        },
+        {
+          "date": "1901-01-01T00:00:00Z",
+          "description": "New Board Member (BRIAN HINKINS) appointed"
+        },
+        {
+          "date": "1901-01-01T00:00:00Z",
+          "description": "New Board Member (MICHAEL VICTOR MOYLES) appointed"
+        },
+        {
+          "date": "1901-01-01T00:00:00Z",
+          "description": "New Board Member (DAVID GERARD MCMAHON) appointed"
+        },
+        {
+          "date": "1901-01-01T00:00:00Z",
+          "description": "New Board Member (JOHN HALL) appointed"
+        },
+        {
+          "date": "1901-01-01T00:00:00Z",
+          "description": "New Company Secretary (FREDERICK FENNESSY) appointed"
+        }
+      ],
+      "enquiriesTrend": {
+        "month1": 0,
+        "month2": 0,
+        "month3": 0,
+        "month4": 6,
+        "month5": 0,
+        "month6": 1,
+        "month7": 0,
+        "month8": 0,
+        "month9": 2,
+        "month10": 2,
+        "month11": 1,
+        "month12": 2,
+        "months1to3": 0,
+        "months4to6": 7,
+        "months7to9": 2,
+        "months10to12": 5,
+        "monthlyAverage": 1,
+        "latestEnquiryDate": "2021-02-19T13:31:11Z"
+      },
+      "mortgageDetails": [
+        {
+          "status": "NOT SATISFIED",
+          "mortgageType": "First legal charge.",
+          "personsEntitled": "ULSTER BANK IRELAND DAC",
+          "dateChargeCreated": "2019-06-28T00:00:00Z",
+          "dateChargeRegistered": "2019-07-03T00:00:00Z"
+        }
+      ],
+      "mortgageSummary": {
+        "satisfied": 0,
+        "outstanding": 1
+      },
+      "creditLimitHistory": [
+        {
+          "date": "2009-11-09T00:00:00Z",
+          "companyValue": {
+            "value": 0,
+            "currency": "GBP"
+          }
+        },
+        {
+          "date": "2009-11-03T00:00:00Z",
+          "companyValue": {
+            "value": 0,
+            "currency": "GBP"
+          }
+        },
+        {
+          "date": "2007-11-20T00:00:00Z",
+          "companyValue": {
+            "value": 0,
+            "currency": "GBP"
+          }
+        },
+        {
+          "date": "2007-08-31T00:00:00Z",
+          "companyValue": {
+            "value": 5000000,
+            "currency": "GBP"
+          }
+        }
+      ]
+    },
+    "companyIdentification": {
+      "basicInformation": {
+        "country": "IE",
+        "legalForm": {
+          "description": "LTD - PRIVATE COMPANY LIMITED BY SHARES"
+        },
+        "businessName": "B. R. C. MCMAHON REINFORCEMENTS LIMITED",
+        "companyStatus": {
+          "status": "Active",
+          "description": "Section 357 (Southern Ireland)",
+          "providerStatus": "Not Scored"
+        },
+        "ownershipType": "Intermediately Owned",
+        "contactAddress": {
+          "type": "Registered Address",
+          "telephone": "06251679",
+          "postalCode": "999939",
+          "simpleValue": "ROSANNA ROAD, TIPPERARY, CO TIPPERARYTIPPERARY, 999939",
+          "directMarketingOptOut": false
+        },
+        "principalActivity": {
+          "classification": "default"
+        },
+        "registeredCompanyName": "B. R. C. MCMAHON REINFORCEMENTS LIMITED",
+        "companyRegistrationDate": "1970-12-30T00:00:00Z",
+        "companyRegistrationNumber": "IE033123"
+      },
+      "activityClassifications": [
+        {
+          "activities": [
+            {
+              "code": "4521",
+              "description": "General construction & civil engineering"
+            }
+          ],
+          "classification": "SIC03"
+        },
+        {
+          "activities": [
+            {
+              "code": "41201",
+              "description": "Construction of commercial buildings"
+            }
+          ],
+          "classification": "SIC07"
+        }
+      ]
+    },
+    "shareCapitalStructure": {
+      "shareHolders": [
+        {
+          "name": "DEREVOYA HOLDINGS LIMITED",
+          "currency": "EUR",
+          "shareType": "ORDINARY A",
+          "shareClasses": [
+            {
+              "currency": "EUR",
+              "shareType": "ORDINARY A",
+              "valuePerShare": 1.25,
+              "additionalData": {
+                "percentSharesHeld": 50
+              },
+              "valueOfSharesOwned": 68750,
+              "numberOfSharesOwned": 55000
+            }
+          ],
+          "shareholderType": "Company",
+          "percentSharesHeld": 50,
+          "totalValueOfSharesOwned": 68750,
+          "totalNumberOfSharesOwned": 55000
+        },
+        {
+          "name": "CELSA STEEL SERVICE (UK) LIMITED",
+          "currency": "EUR",
+          "shareType": "ORDINARY B",
+          "shareClasses": [
+            {
+              "currency": "EUR",
+              "shareType": "ORDINARY B",
+              "valuePerShare": 1.25,
+              "additionalData": {
+                "percentSharesHeld": 35.65
+              },
+              "valueOfSharesOwned": 49018,
+              "numberOfSharesOwned": 39214
+            },
+            {
+              "currency": "EUR",
+              "shareType": "ORDINARY CONVERTIBLE",
+              "valuePerShare": 1.25,
+              "additionalData": {
+                "percentSharesHeld": 0
+              },
+              "valueOfSharesOwned": 1,
+              "numberOfSharesOwned": 1
+            }
+          ],
+          "shareholderType": "Company",
+          "percentSharesHeld": 35.65,
+          "totalValueOfSharesOwned": 49019,
+          "totalNumberOfSharesOwned": 39215
+        },
+        {
+          "name": "CATALUNYA STEEL S.L.",
+          "currency": "EUR",
+          "shareType": "ORDINARY B",
+          "shareClasses": [
+            {
+              "currency": "EUR",
+              "shareType": "ORDINARY B",
+              "valuePerShare": 1.25,
+              "additionalData": {
+                "percentSharesHeld": 14.35
+              },
+              "valueOfSharesOwned": 19731,
+              "numberOfSharesOwned": 15785
+            }
+          ],
+          "shareholderType": "Company",
+          "percentSharesHeld": 14.35,
+          "totalValueOfSharesOwned": 19731,
+          "totalNumberOfSharesOwned": 15785
+        }
+      ],
+      "issuedShareCapital": {
+        "value": 137500,
+        "currency": "EUR"
+      },
+      "numberOfSharesIssued": 110000
+    },
+    "extendedGroupStructure": [
+      {
+        "id": "IE-0-IE355290",
+        "level": 0,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00347594",
+        "companyName": "DEREVOYA HOLDINGS LIMITED",
+        "registeredNumber": "IE355290",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE003490",
+        "level": 1,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00000512",
+        "companyName": "JAMES MC MAHON, LIMITED",
+        "registeredNumber": "IE003490",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE001586",
+        "level": 2,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00000114",
+        "companyName": "ACE HOMECENTRE LIMITED",
+        "registeredNumber": "IE001586",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE033123",
+        "level": 2,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00027260",
+        "companyName": "B. R. C. MCMAHON REINFORCEMENTS LIMITED",
+        "registeredNumber": "IE033123",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE072275",
+        "level": 3,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00066407",
+        "companyName": "BAT METALWORK LIMITED",
+        "registeredNumber": "IE072275",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE421405",
+        "level": 3,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00413106",
+        "companyName": "WIRE MESH LIMITED",
+        "registeredNumber": "IE421405",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE088901",
+        "level": 1,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00083033",
+        "companyName": "TORURO ENTERPRISES LIMITED",
+        "registeredNumber": "IE088901",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "DE-0-DE02017110",
+        "level": 2,
+        "status": "Active",
+        "country": "DE",
+        "safeNumber": "DE02017110",
+        "companyName": "TORURO GMBH & CO. KG",
+        "registeredNumber": "HRA 40201 B",
+        "latestAnnualAccounts": "2019-12-31T00:00:00Z"
+      },
+      {
+        "id": "DE-0-DE02061015",
+        "level": 2,
+        "status": "Active",
+        "country": "DE",
+        "safeNumber": "DE02061015",
+        "companyName": "TORURO MANAGEMENT GMBH",
+        "registeredNumber": "HRB 108811 B",
+        "latestAnnualAccounts": "2019-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE100742",
+        "level": 1,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00094874",
+        "companyName": "SUPERWARM HOMES (LIMERICK) LIMITED",
+        "registeredNumber": "IE100742",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE423315",
+        "level": 1,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00415015",
+        "companyName": "JMCM PROPERTIES LIMITED",
+        "registeredNumber": "IE423315",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE563983",
+        "level": 1,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE01081789",
+        "companyName": "COOPER DEVELOPMENTS DESIGNATED ACTIVITY COMPANY",
+        "registeredNumber": "IE563983",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE068292",
+        "level": 2,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00062424",
+        "companyName": "SPAIGHT TIMBER PRESERVATIVES LIMITED",
+        "registeredNumber": "IE068292",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE175934",
+        "level": 2,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE00170066",
+        "companyName": "WERDNA LIMITED",
+        "registeredNumber": "IE175934",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "IE-0-IE582767",
+        "level": 1,
+        "status": "Active",
+        "country": "IE",
+        "safeNumber": "IE01125577",
+        "companyName": "JAMES MCMAHON (BP 1830) DESIGNATED ACTIVITY COMPANY",
+        "registeredNumber": "IE582767",
+        "latestAnnualAccounts": "2018-12-31T00:00:00Z"
+      },
+      {
+        "id": "GB-0-NI001065",
+        "level": 2,
+        "status": "Active",
+        "country": "GB",
+        "safeNumber": "UK07001832",
+        "companyName": "ROBERT KEYS & COMPANY LIMITED",
+        "registeredNumber": "NI001065",
+        "latestAnnualAccounts": "2019-12-31T00:00:00Z"
+      },
+      {
+        "id": "GB-0-NI039889",
+        "level": 2,
+        "status": "Active",
+        "country": "GB",
+        "safeNumber": "UK07034767",
+        "companyName": "ACE HOME CENTRE LIMITED",
+        "registeredNumber": "NI039889",
+        "latestAnnualAccounts": "2019-12-31T00:00:00Z"
+      },
+      {
+        "id": "GB-0-05967608",
+        "level": 1,
+        "status": "Active",
+        "country": "GB",
+        "safeNumber": "UK05611290",
+        "companyName": "WINRUNNER LTD",
+        "registeredNumber": "05967608",
+        "latestAnnualAccounts": "2019-12-31T00:00:00Z"
+      }
+    ],
+    "localFinancialStatements": [
+      {
+        "type": "LocalFinancialsCSUK",
+        "cashFlow": {
+          "netCashFlowBeforeFinancing": 0
+        },
+        "currency": "EUR",
+        "yearEndDate": "2018-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "stock": 0,
+          "netAssets": 0,
+          "totalAssets": 0,
+          "otherDebtors": 0,
+          "tradeDebtors": 0,
+          "otherReserves": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "revenueReserves": 0,
+          "intangibleAssets": 0,
+          "totalFixedAssets": 0,
+          "totalLiabilities": 0,
+          "miscCurrentAssets": 0,
+          "issuedShareCapital": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "otherLongTermFinance": 0,
+          "bankBorrowingsCurrent": 0,
+          "otherShortTermFinance": 0,
+          "miscCurrentLiabilities": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "totalLongTermLiabilities": 0
+        },
+        "numberOfWeeks": 52,
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "capitalEmployed": 0,
+          "bankOverdraftAndLTL": 0,
+          "contingentLiabilities": false
+        },
+        "auditQualification": "The audit report contains no adverse comments",
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "LocalFinancialsCSUK",
+        "cashFlow": {
+          "netCashFlowBeforeFinancing": 0
+        },
+        "currency": "EUR",
+        "yearEndDate": "2017-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "stock": 0,
+          "netAssets": 0,
+          "totalAssets": 0,
+          "otherDebtors": 0,
+          "tradeDebtors": 0,
+          "otherReserves": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "revenueReserves": 0,
+          "intangibleAssets": 0,
+          "totalFixedAssets": 0,
+          "totalLiabilities": 0,
+          "miscCurrentAssets": 0,
+          "issuedShareCapital": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "otherLongTermFinance": 0,
+          "bankBorrowingsCurrent": 0,
+          "otherShortTermFinance": 0,
+          "miscCurrentLiabilities": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "totalLongTermLiabilities": 0
+        },
+        "numberOfWeeks": 52,
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "capitalEmployed": 0,
+          "bankOverdraftAndLTL": 0,
+          "contingentLiabilities": false
+        },
+        "auditQualification": "The audit report contains no adverse comments",
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "LocalFinancialsCSUK",
+        "cashFlow": {
+          "netCashFlowBeforeFinancing": 0
+        },
+        "currency": "EUR",
+        "yearEndDate": "2016-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "stock": 0,
+          "netAssets": 0,
+          "totalAssets": 0,
+          "otherDebtors": 0,
+          "tradeDebtors": 0,
+          "otherReserves": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "revenueReserves": 0,
+          "intangibleAssets": 0,
+          "totalFixedAssets": 0,
+          "totalLiabilities": 0,
+          "miscCurrentAssets": 0,
+          "issuedShareCapital": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "otherLongTermFinance": 0,
+          "bankBorrowingsCurrent": 0,
+          "otherShortTermFinance": 0,
+          "miscCurrentLiabilities": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "totalLongTermLiabilities": 0
+        },
+        "numberOfWeeks": 52,
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "capitalEmployed": 0,
+          "bankOverdraftAndLTL": 0,
+          "contingentLiabilities": false
+        },
+        "auditQualification": "The audit report contains no adverse comments",
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "LocalFinancialsCSUK",
+        "cashFlow": {
+          "netCashFlowBeforeFinancing": 0
+        },
+        "currency": "EUR",
+        "yearEndDate": "2015-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "stock": 0,
+          "netAssets": 0,
+          "totalAssets": 0,
+          "otherDebtors": 0,
+          "tradeDebtors": 0,
+          "otherReserves": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "revenueReserves": 0,
+          "intangibleAssets": 0,
+          "totalFixedAssets": 0,
+          "totalLiabilities": 0,
+          "miscCurrentAssets": 0,
+          "issuedShareCapital": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "otherLongTermFinance": 0,
+          "bankBorrowingsCurrent": 0,
+          "otherShortTermFinance": 0,
+          "miscCurrentLiabilities": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "totalLongTermLiabilities": 0
+        },
+        "numberOfWeeks": 52,
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "capitalEmployed": 0,
+          "bankOverdraftAndLTL": 0,
+          "contingentLiabilities": false
+        },
+        "auditQualification": "The audit report contains no adverse comments",
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "LocalFinancialsCSUK",
+        "cashFlow": {
+          "netCashFlowBeforeFinancing": 0
+        },
+        "currency": "EUR",
+        "yearEndDate": "2014-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "stock": 0,
+          "netAssets": 0,
+          "totalAssets": 0,
+          "otherDebtors": 0,
+          "tradeDebtors": 0,
+          "otherReserves": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "revenueReserves": 0,
+          "intangibleAssets": 0,
+          "totalFixedAssets": 0,
+          "totalLiabilities": 0,
+          "miscCurrentAssets": 0,
+          "issuedShareCapital": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "otherLongTermFinance": 0,
+          "bankBorrowingsCurrent": 0,
+          "otherShortTermFinance": 0,
+          "miscCurrentLiabilities": 0,
+          "totalCurrentLiabilities": 0,
+          "totalShareholdersEquity": 0,
+          "totalLongTermLiabilities": 0
+        },
+        "numberOfWeeks": 52,
+        "otherFinancials": {
+          "netWorth": 0,
+          "workingCapital": 0,
+          "capitalEmployed": 0,
+          "bankOverdraftAndLTL": 0,
+          "contingentLiabilities": false
+        },
+        "auditQualification": "The audit report contains no adverse comments",
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "LocalFinancialsGAAP",
+        "currency": "EUR",
+        "yearEndDate": "2018-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "debtors": 0,
+          "bankLoan": 0,
+          "creditors": 0,
+          "miscDebtors": 0,
+          "otherShares": 0,
+          "groupDebtors": 0,
+          "tradeDebtors": 0,
+          "bankOverdraft": 0,
+          "groupAccounts": 0,
+          "otherReserves": 0,
+          "ordinaryShares": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "otherProvisions": 0,
+          "totalProvisions": 0,
+          "intangibleAssets": 0,
+          "preferenceShares": 0,
+          "totalFixedAssets": 0,
+          "directorsAccounts": 0,
+          "longTermBankLoans": 0,
+          "minorityInterests": 0,
+          "miscCurrentAssets": 0,
+          "investmentAndOther": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "totalLongTermLoans": 0,
+          "netPensionLiability": 0,
+          "otherShortTermLoans": 0,
+          "debtorsDueAfter1Year": 0,
+          "currentTaxLiabilities": 0,
+          "longTermGroupAccounts": 0,
+          "deferredTaxLiabilities": 0,
+          "totalShareholdersFunds": 0,
+          "currentLeaseCommitments": 0,
+          "otherCurrentLiabilities": 0,
+          "stocksAndWorkInProgress": 0,
+          "totalCurrentLiabilities": 0,
+          "investmentAndOtherAssets": 0,
+          "otherLongTermLiabilities": 0,
+          "totalLongTermLiabilities": 0,
+          "accrualsAndDeferredIncome": 0,
+          "longTermDirectorsAccounts": 0,
+          "nonCurrentLeaseCommitments": 0,
+          "dividendsCurrentLiabilities": 0,
+          "longTermOtherLoansOrFinance": 0,
+          "totalCalledUpOrIssuedCapital": 0,
+          "totalOtherCurrentLiabilities": 0,
+          "profitAndLossOrRevenueReserve": 0,
+          "currentHirePurchaseCommitments": 0,
+          "totalOtherNonCurrentLiabilities": 0,
+          "nonCurrentHirePurchaseCommitments": 0,
+          "totalNonCurrentHpAndLeaseCommitments": 0,
+          "accrualsAndDeferredIncomeDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "accountsStatus": "Section 357 (Southern Ireland Only)",
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "LocalFinancialsGAAP",
+        "currency": "EUR",
+        "yearEndDate": "2017-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "debtors": 0,
+          "bankLoan": 0,
+          "creditors": 0,
+          "miscDebtors": 0,
+          "otherShares": 0,
+          "groupDebtors": 0,
+          "tradeDebtors": 0,
+          "bankOverdraft": 0,
+          "groupAccounts": 0,
+          "otherReserves": 0,
+          "ordinaryShares": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "otherProvisions": 0,
+          "totalProvisions": 0,
+          "intangibleAssets": 0,
+          "preferenceShares": 0,
+          "totalFixedAssets": 0,
+          "directorsAccounts": 0,
+          "longTermBankLoans": 0,
+          "minorityInterests": 0,
+          "miscCurrentAssets": 0,
+          "investmentAndOther": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "totalLongTermLoans": 0,
+          "netPensionLiability": 0,
+          "otherShortTermLoans": 0,
+          "debtorsDueAfter1Year": 0,
+          "currentTaxLiabilities": 0,
+          "longTermGroupAccounts": 0,
+          "deferredTaxLiabilities": 0,
+          "totalShareholdersFunds": 0,
+          "currentLeaseCommitments": 0,
+          "otherCurrentLiabilities": 0,
+          "stocksAndWorkInProgress": 0,
+          "totalCurrentLiabilities": 0,
+          "investmentAndOtherAssets": 0,
+          "otherLongTermLiabilities": 0,
+          "totalLongTermLiabilities": 0,
+          "accrualsAndDeferredIncome": 0,
+          "longTermDirectorsAccounts": 0,
+          "nonCurrentLeaseCommitments": 0,
+          "dividendsCurrentLiabilities": 0,
+          "longTermOtherLoansOrFinance": 0,
+          "totalCalledUpOrIssuedCapital": 0,
+          "totalOtherCurrentLiabilities": 0,
+          "profitAndLossOrRevenueReserve": 0,
+          "currentHirePurchaseCommitments": 0,
+          "totalOtherNonCurrentLiabilities": 0,
+          "nonCurrentHirePurchaseCommitments": 0,
+          "totalNonCurrentHpAndLeaseCommitments": 0,
+          "accrualsAndDeferredIncomeDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "accountsStatus": "Section 357 (Southern Ireland Only)",
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "LocalFinancialsGAAP",
+        "currency": "EUR",
+        "yearEndDate": "2016-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "debtors": 0,
+          "bankLoan": 0,
+          "creditors": 0,
+          "miscDebtors": 0,
+          "otherShares": 0,
+          "groupDebtors": 0,
+          "tradeDebtors": 0,
+          "bankOverdraft": 0,
+          "groupAccounts": 0,
+          "otherReserves": 0,
+          "ordinaryShares": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "otherProvisions": 0,
+          "totalProvisions": 0,
+          "intangibleAssets": 0,
+          "preferenceShares": 0,
+          "totalFixedAssets": 0,
+          "directorsAccounts": 0,
+          "longTermBankLoans": 0,
+          "minorityInterests": 0,
+          "miscCurrentAssets": 0,
+          "investmentAndOther": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "totalLongTermLoans": 0,
+          "netPensionLiability": 0,
+          "otherShortTermLoans": 0,
+          "debtorsDueAfter1Year": 0,
+          "currentTaxLiabilities": 0,
+          "longTermGroupAccounts": 0,
+          "deferredTaxLiabilities": 0,
+          "totalShareholdersFunds": 0,
+          "currentLeaseCommitments": 0,
+          "otherCurrentLiabilities": 0,
+          "stocksAndWorkInProgress": 0,
+          "totalCurrentLiabilities": 0,
+          "investmentAndOtherAssets": 0,
+          "otherLongTermLiabilities": 0,
+          "totalLongTermLiabilities": 0,
+          "accrualsAndDeferredIncome": 0,
+          "longTermDirectorsAccounts": 0,
+          "nonCurrentLeaseCommitments": 0,
+          "dividendsCurrentLiabilities": 0,
+          "longTermOtherLoansOrFinance": 0,
+          "totalCalledUpOrIssuedCapital": 0,
+          "totalOtherCurrentLiabilities": 0,
+          "profitAndLossOrRevenueReserve": 0,
+          "currentHirePurchaseCommitments": 0,
+          "totalOtherNonCurrentLiabilities": 0,
+          "nonCurrentHirePurchaseCommitments": 0,
+          "totalNonCurrentHpAndLeaseCommitments": 0,
+          "accrualsAndDeferredIncomeDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "accountsStatus": "Section 357 (Southern Ireland Only)",
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "LocalFinancialsGAAP",
+        "currency": "EUR",
+        "yearEndDate": "2015-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "debtors": 0,
+          "bankLoan": 0,
+          "creditors": 0,
+          "miscDebtors": 0,
+          "otherShares": 0,
+          "groupDebtors": 0,
+          "tradeDebtors": 0,
+          "bankOverdraft": 0,
+          "groupAccounts": 0,
+          "otherReserves": 0,
+          "ordinaryShares": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "otherProvisions": 0,
+          "totalProvisions": 0,
+          "intangibleAssets": 0,
+          "preferenceShares": 0,
+          "totalFixedAssets": 0,
+          "directorsAccounts": 0,
+          "longTermBankLoans": 0,
+          "minorityInterests": 0,
+          "miscCurrentAssets": 0,
+          "investmentAndOther": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "totalLongTermLoans": 0,
+          "netPensionLiability": 0,
+          "otherShortTermLoans": 0,
+          "debtorsDueAfter1Year": 0,
+          "currentTaxLiabilities": 0,
+          "longTermGroupAccounts": 0,
+          "deferredTaxLiabilities": 0,
+          "totalShareholdersFunds": 0,
+          "currentLeaseCommitments": 0,
+          "otherCurrentLiabilities": 0,
+          "stocksAndWorkInProgress": 0,
+          "totalCurrentLiabilities": 0,
+          "investmentAndOtherAssets": 0,
+          "otherLongTermLiabilities": 0,
+          "totalLongTermLiabilities": 0,
+          "accrualsAndDeferredIncome": 0,
+          "longTermDirectorsAccounts": 0,
+          "nonCurrentLeaseCommitments": 0,
+          "dividendsCurrentLiabilities": 0,
+          "longTermOtherLoansOrFinance": 0,
+          "totalCalledUpOrIssuedCapital": 0,
+          "totalOtherCurrentLiabilities": 0,
+          "profitAndLossOrRevenueReserve": 0,
+          "currentHirePurchaseCommitments": 0,
+          "totalOtherNonCurrentLiabilities": 0,
+          "nonCurrentHirePurchaseCommitments": 0,
+          "totalNonCurrentHpAndLeaseCommitments": 0,
+          "accrualsAndDeferredIncomeDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "accountsStatus": "Section 357 (Southern Ireland Only)",
+        "consolidatedAccounts": true
+      },
+      {
+        "type": "LocalFinancialsGAAP",
+        "currency": "EUR",
+        "yearEndDate": "2014-12-31T00:00:00Z",
+        "balanceSheet": {
+          "cash": 0,
+          "debtors": 0,
+          "bankLoan": 0,
+          "creditors": 0,
+          "miscDebtors": 0,
+          "otherShares": 0,
+          "groupDebtors": 0,
+          "tradeDebtors": 0,
+          "bankOverdraft": 0,
+          "groupAccounts": 0,
+          "otherReserves": 0,
+          "ordinaryShares": 0,
+          "tangibleAssets": 0,
+          "tradeCreditors": 0,
+          "otherProvisions": 0,
+          "totalProvisions": 0,
+          "intangibleAssets": 0,
+          "preferenceShares": 0,
+          "totalFixedAssets": 0,
+          "directorsAccounts": 0,
+          "longTermBankLoans": 0,
+          "minorityInterests": 0,
+          "miscCurrentAssets": 0,
+          "investmentAndOther": 0,
+          "revaluationReserve": 0,
+          "totalCurrentAssets": 0,
+          "totalLongTermLoans": 0,
+          "netPensionLiability": 0,
+          "otherShortTermLoans": 0,
+          "debtorsDueAfter1Year": 0,
+          "currentTaxLiabilities": 0,
+          "longTermGroupAccounts": 0,
+          "deferredTaxLiabilities": 0,
+          "totalShareholdersFunds": 0,
+          "currentLeaseCommitments": 0,
+          "otherCurrentLiabilities": 0,
+          "stocksAndWorkInProgress": 0,
+          "totalCurrentLiabilities": 0,
+          "investmentAndOtherAssets": 0,
+          "otherLongTermLiabilities": 0,
+          "totalLongTermLiabilities": 0,
+          "accrualsAndDeferredIncome": 0,
+          "longTermDirectorsAccounts": 0,
+          "nonCurrentLeaseCommitments": 0,
+          "dividendsCurrentLiabilities": 0,
+          "longTermOtherLoansOrFinance": 0,
+          "totalCalledUpOrIssuedCapital": 0,
+          "totalOtherCurrentLiabilities": 0,
+          "profitAndLossOrRevenueReserve": 0,
+          "currentHirePurchaseCommitments": 0,
+          "totalOtherNonCurrentLiabilities": 0,
+          "nonCurrentHirePurchaseCommitments": 0,
+          "totalNonCurrentHpAndLeaseCommitments": 0,
+          "accrualsAndDeferredIncomeDueAfter1Year": 0
+        },
+        "numberOfWeeks": 52,
+        "accountsStatus": "Section 357 (Southern Ireland Only)",
+        "consolidatedAccounts": true
+      }
+    ]
+  },
+  "userId": "101498030",
+  "language": "en",
+  "companyId": "IE-0-IE033123",
+  "dateOfOrder": "2021-05-05T09:02:25.015Z",
+  "correlationId": "9b781750-ad80-11eb-84d1-0252c317fa35"
+}
